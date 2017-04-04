@@ -1,0 +1,9 @@
+F:\CS480\480HW3\480HW3\bin\Debug\480HW3.exe.config
+F:\CS480\480HW3\480HW3\bin\Debug\480HW3.exe
+F:\CS480\480HW3\480HW3\bin\Debug\480HW3.pdb
+F:\CS480\480HW3\480HW3\obj\Debug\480HW3.csprojResolveAssemblyReference.cache
+F:\CS480\480HW3\480HW3\obj\Debug\_480HW3.Form1.resources
+F:\CS480\480HW3\480HW3\obj\Debug\_480HW3.Properties.Resources.resources
+F:\CS480\480HW3\480HW3\obj\Debug\480HW3.csproj.GenerateResource.Cache
+F:\CS480\480HW3\480HW3\obj\Debug\480HW3.exe
+F:\CS480\480HW3\480HW3\obj\Debug\480HW3.pdb
